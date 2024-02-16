@@ -1,4 +1,4 @@
-Jeune papapreneur, je suis freelance développeur Laravel / VueJS et chef de projet, je vous dis tout ⬇️
+Jeune papapreneur, je suis freelance développeur Elixir / Laravel / VueJS et chef de projet, je vous dis tout ⬇️
 
 Je travaille depuis bientôt 10 ans dans le secteur, avec tous types de clients : 
 - des personnes seules avec une idée 💡
